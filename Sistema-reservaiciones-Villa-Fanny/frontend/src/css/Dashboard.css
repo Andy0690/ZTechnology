@@ -1,0 +1,19 @@
+.content {
+    margin-left: 8rem; /* Ancho de tu barra lateral */
+    padding: 1rem; /* Puedes ajustar esto según tus necesidades */
+  }
+  
+/* Dashboard.css */
+.dashboard-cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  padding: 16px;
+  margin: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}

@@ -1,0 +1,43 @@
+/* Header.css */
+.header {
+    background-color: rgb(1, 2, 78);
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  .headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+  }
+  
+  .logo {
+    font-weight: 700;
+    color: rgb(253, 253, 253);
+  }
+  
+  .logo h2 {
+    margin: 0;
+  }
+  
+  .nav {
+    display: flex;
+  }
+  
+  .form-header {
+    margin: 0;
+  }
+  
+  .logout {
+    background-color: #009efa;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  .logout:hover {
+    background-color: #014fb4;
+  }
+  
